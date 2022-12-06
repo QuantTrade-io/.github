@@ -1,18 +1,14 @@
-# 🌈 okuna-web
+# 📈 - QuantTrade.io
 
-Okuna is coming to the web.
+We will bring Alpha to the public
 
 ## Table of contents
 
-- [Requirements](#requirements)
-- [Project overview](#project-overview)
+- [About](#about)
+- [Community](#community)
+- [Projects](#projects)
 - [Contributing](#contributing)
-    + [Code of Conduct](#code-of-conduct)
-    + [License](#license)
-    + [Other issues](#other-issues)
-    + [Git commit message conventions](#git-commit-message-conventions)
-- [Getting started](#getting-started)
+- [Appendix](#appendix)
 
-## Requirements
+## ⭐ | About
 
-* [node](https://nodejs.org/en/)
