@@ -1,6 +1,6 @@
 # 📈 | QuantTrade.io
 
-We will bring Alpha to the public
+Providing Alpha to the Public
 
 ## Table of contents
 
