@@ -12,3 +12,10 @@ We will bring Alpha to the public
 
 ## ⭐ | About
 
+## ⭐ | Community
+
+## ⭐ | Projects
+
+## ⭐ | Contributing
+
+## ⭐ | Appendix
