@@ -26,7 +26,7 @@ Youtube, Twitter and Twitch channel are from the creator of this project: [tpotj
 * [Notion](https://painted-agenda-a1c.notion.site/MVP-1-92144ca0ef2a456d952cc618bfea0a0f)
 * [Discord](https://discord.gg/ScBc9ee3mx)
 * [Twitch](https://www.twitch.tv/tpotjj)
-* [Youtube](ihttps://www.youtube.com/channel/UCSBbWhPHNiIs8VgLzW3s-Bg)
+* [Youtube](https://www.youtube.com/channel/UCSBbWhPHNiIs8VgLzW3s-Bg)
 * [Twitter](https://twitter.com/tpotjj)
 
 ## Projects
