@@ -37,7 +37,7 @@ Currently there are the following projects (each project has its own README.md):
 
 
 ## Contributing
-There are many different ways to contribute to the website development, just find the one that best fits with your skills and open an issue/pull request in the repository.
+There are many different ways to contribute to the development of QuantTrade, just find the one that best fits with your skills and open an issue/pull request in the repository.
 
 Examples of contributions we love include:
 
